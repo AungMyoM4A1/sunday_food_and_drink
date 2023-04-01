@@ -1,0 +1,53 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    color: white;
+}
+/* _____________________________________________ */
+.bg {
+    background-image: url("../images/vegetables-set-left-black-slate.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* FONT FAMILY ROOM */
+.logo {
+    font-family: 'Lily Script One', cursive;
+    color: #fb8c00;
+    font-size: x-large;
+}
+.nav_text {
+    font-family: 'Poppins', sans-serif;
+}
+.main_text {
+    font-family: 'Montserrat', sans-serif;
+}
+/* __________________________________________________ */
+
+.nav_text a:hover {
+    color: white;
+}
+/* ___________________________________________ */
+
+.menu_text .menu_main_text {
+    color: #fb8c00;
+}
+
+.menu_second_text p{
+    padding-bottom: 5px;
+}
+
+/* ______________________________________ */
+.for_breadfast div {
+    margin-bottom: 5px;
+}
+/* _______________________________________ */
+
+#footer .row div {
+    margin-top: 5%;
+}
+#footer .row a {
+    text-decoration: none;
+    color: white;
+}
